@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Gouramma Mantur
+I am pursuing computer Science and engineering 
+
 
 <!--
 **gourammamantur6-coder/gourammamantur6-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
