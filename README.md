@@ -15,10 +15,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourammamantur6-coder&show_icons=true&locale=en" alt="gourammamantur6-coder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourammamantur6-coder&" alt="gourammamantur6-coder" /></p>
-## Hi there 👋
-I am Gouramma Mantur
-<br>
-I am pursuing computer Science and engineering 
+
 
 
 <!--
